@@ -18,7 +18,6 @@ function sendMensaje(){
 }
 
 
-
 /*function getEmail(){
     let email;
     email = document.getElementById('form_email');
