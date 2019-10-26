@@ -7,7 +7,7 @@ function sendMensaje(){
     Email.send({
         Host : "smtp.gmail.com", //servidor
         Username : "veramgro@gmail.com", //Micorrepo
-        Password : "Finn&Jake23", //mic
+        Password : "", //mic
         To : 'veramgro@gmail.com', //a donde lo mando
         From : email, //quien me lo envia
         Subject : nombre,
